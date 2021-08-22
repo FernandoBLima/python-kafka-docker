@@ -1,0 +1,7 @@
+fastapi==0.63.0
+kafka-python==2.0.2
+aiokafka==0.7.1
+uvicorn==0.13.3
+flake8==3.9.0
+python-dotenv==0.19.0
+fastapi-utils==0.2.1
